@@ -4,7 +4,10 @@
 - 💻 Tecnico em Desenvolvimento de Sistemas
 - ☕ Desenvolvedor Java Spring
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppaulocma&theme=gotham&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppaulocma&layout=compact&theme=gotham)](https://github.com/ppaulocma/github-readme-stats)
+<div align="left">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=ppaulocma&theme=gotham&show_icons=true"/>	
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppaulocma&layout=compact&theme=gotham)](https://github.com/ppaulocma/github-readme-stats" />
+</div>
+
 
