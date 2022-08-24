@@ -1,8 +1,8 @@
 ### Bem Vindo(a)👋
 
-- 🙎‍♂️ Paulo Cesar, 19 Anos, Florianopolis
+- 🙎‍♂️ Paulo Cesar, 20 Anos, Florianopolis
 - 💻 Tecnico em Desenvolvimento de Sistemas
-- ☕ Desenvolvedor Java Spring
+- ☕ Desenvolvedor PHP / JS 
 
 
 <div align="left">
